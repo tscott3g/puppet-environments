@@ -1,0 +1,3 @@
+node /puppeta/ {
+	include testrepo	
+}
