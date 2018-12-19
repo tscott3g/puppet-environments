@@ -3,3 +3,4 @@ class profile::lamp {
   include mysql::server
   include php
 }
+
