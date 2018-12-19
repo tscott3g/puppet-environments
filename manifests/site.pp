@@ -1,3 +1,3 @@
 node /puppeta/ {
-	include testrepo	
+	include role::lamp
 }
