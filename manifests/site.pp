@@ -1,4 +1,6 @@
-node /puppeta/ {
-#	include testrepo
-  include apache
-}
+class { 'apache': }
+
+#node /puppeta/ {
+##	include testrepo
+#  include apache
+#}
