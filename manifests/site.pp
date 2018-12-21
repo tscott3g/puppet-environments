@@ -1,3 +1,4 @@
 node /puppeta/ {
-	include testrepo	
+#	include testrepo
+  include apache
 }
